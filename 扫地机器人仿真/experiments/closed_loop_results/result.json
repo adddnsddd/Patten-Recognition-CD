@@ -1,0 +1,16 @@
+{
+  "seed": 7,
+  "initial_soc": 21,
+  "success": true,
+  "first_return_s": 46.30000000000039,
+  "first_charge_s": 69.20000000000034,
+  "resumed_at_s": 5481.700000002411,
+  "charging_rising_steps": 54125,
+  "coverage_at_charge_percent": 7.906843013225992,
+  "coverage_after_resume_percent": 8.108108108108109,
+  "final_time_s": 5484.500000002421,
+  "collisions": 0,
+  "minimum_gap_m": 0.17512546589398037,
+  "controller_state": "CLEANING",
+  "charging_fast_path": "Only while actors >1.2m from dock; world.step still executes every 0.1s"
+}

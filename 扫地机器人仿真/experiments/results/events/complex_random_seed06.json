@@ -1,0 +1,6312 @@
+[
+  {
+    "time": 28.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 31.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 35.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 35.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 36.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 59.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 61.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 62.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 62.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 63.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 64.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 69.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 71.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 74.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 75.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 75.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 75.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 84.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 85.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 85.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 88.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 92.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 94.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 101.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 101.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 101.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 102.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 102.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 103.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 103.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 104.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 104.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 105.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 121.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 123.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 124.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 124.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 124.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 124.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 124.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 124.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 124.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 124.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 124.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 125.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 125.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 126.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 126.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 126.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 126.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 126.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 126.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 126.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 126.4,
+    "type": "state_AVOIDING",
+    "message": "完成反弹转向后继续清扫"
+  },
+  {
+    "time": 127.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 131.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 134.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 134.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 134.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 134.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 134.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 134.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 134.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 134.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 134.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 134.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 134.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 134.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 135.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 135.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 139.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 141.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 146.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 148.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 149.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 149.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 150.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 151.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 155.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 155.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 156.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 156.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 156.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 156.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 156.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 156.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 156.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 156.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 156.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 158.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 160.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 162.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 164.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 174.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 176.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 185.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 185.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 185.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 185.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 185.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 185.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 185.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 185.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 185.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 187.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 187.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 187.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 187.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 187.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 187.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 188.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 188.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 188.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 188.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 188.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 188.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 188.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 188.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 189.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 189.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 189.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 189.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 189.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 189.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 190.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 190.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 190.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 190.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 190.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 190.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 190.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 190.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 190.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 190.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 191.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 191.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 191.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 191.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 191.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 191.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 191.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 191.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 191.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 199.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 202.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 207.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 207.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 207.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 208.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 208.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 209.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 209.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 209.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 209.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 209.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 209.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 209.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 209.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 209.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 215.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 217.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 217.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 220.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 223.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 223.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 223.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 223.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 223.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 223.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 223.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 223.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 225.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 227.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 229.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 239.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 242.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 253.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 253.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 258.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 258.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 258.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 258.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 258.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 258.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 258.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 258.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 258.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 258.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 258.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 259.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 259.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 260.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 260.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 261.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 261.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 261.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 262.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让（暂无全程安全候选）"
+  },
+  {
+    "time": 262.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行（暂无全程安全候选）"
+  },
+  {
+    "time": 262.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行（暂无全程安全候选）"
+  },
+  {
+    "time": 262.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 262.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行（暂无全程安全候选）"
+  },
+  {
+    "time": 263.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 263.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行（暂无全程安全候选）"
+  },
+  {
+    "time": 263.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 263.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行（暂无全程安全候选）"
+  },
+  {
+    "time": 263.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 263.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行（暂无全程安全候选）"
+  },
+  {
+    "time": 267.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 267.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 268.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 271.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 274.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 283.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 285.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 311.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 314.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 332.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 332.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 332.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 332.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 332.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 332.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 332.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 333.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 333.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 333.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 333.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 333.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 333.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 335.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 336.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 336.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 336.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 336.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 336.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 336.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 336.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 336.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 337.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 337.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 337.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 337.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 337.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 337.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 337.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 337.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 337.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 337.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 337.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 338.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 338.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 338.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 338.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 338.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 338.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 338.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 338.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 338.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 338.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 338.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 339.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 339.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 339.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 339.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 339.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 339.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 339.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 340.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 340.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 341.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 341.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 341.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 341.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 341.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 341.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 341.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 350.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 352.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 377.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 379.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 386.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 389.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 396.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 398.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 404.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 406.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 412.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 413.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 413.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 415.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 420.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 422.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 428.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 429.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 429.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 430.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 439.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 441.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 446.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 449.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 455.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 456.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 465.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 467.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 468.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 468.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 468.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 469.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 498.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 500.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 501.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 501.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 501.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 501.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 501.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 501.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 501.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 502.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 502.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 503.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 503.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 503.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 503.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 503.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 503.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 503.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 503.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 508.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 518.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 519.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 521.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 521.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 521.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 522.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 522.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 525.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 535.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 536.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 538.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 539.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 545.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 547.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 547.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 548.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 548.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 548.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 548.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 549.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 549.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 549.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 549.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 549.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 549.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 549.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 549.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 549.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 556.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 558.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 559.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 559.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 559.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 560.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 560.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 560.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 561.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 561.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 562.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 562.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 562.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 562.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 562.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 562.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 562.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 562.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 562.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 571.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 573.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 578.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 580.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 597.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 599.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 601.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 603.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 605.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 607.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 615.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 615.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 616.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 617.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 618.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 619.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 621.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 623.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 626.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 628.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 629.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 630.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 631.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 633.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 636.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 639.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 660.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 660.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 661.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 661.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 662.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 668.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 680.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 681.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 689.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 690.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 690.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 693.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 698.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 700.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 707.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 708.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 718.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 720.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 720.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 721.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 721.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 721.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 721.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 721.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 721.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 721.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 721.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 721.8,
+    "type": "safety_stop",
+    "message": "Unsafe translation rejected before contact"
+  },
+  {
+    "time": 723.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 724.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 724.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 724.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 724.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 724.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 724.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 724.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 725.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 725.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 726.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 726.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 726.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 726.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 726.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 726.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 726.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 726.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 726.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 726.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 729.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 730.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 737.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 739.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 745.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 747.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 763.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 764.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 766.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 767.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 768.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 770.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 791.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 791.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 791.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 791.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 791.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 791.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 791.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 792.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 792.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 794.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 796.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 797.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 797.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 800.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 811.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 812.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 812.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 813.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 819.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 820.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 825.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 826.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 838.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 840.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 843.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 845.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 845.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 848.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 863.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 865.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 881.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 882.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 885.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 887.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 887.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 889.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 891.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 894.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 897.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 898.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 913.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 914.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 923.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 924.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 929.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 931.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 935.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 936.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 936.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 936.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 936.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 936.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 936.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 936.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 936.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 936.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 936.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 937.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 937.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 938.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 938.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 939.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 939.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 939.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 939.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 939.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 940.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 940.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 940.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 941.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 942.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 954.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 955.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 955.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 957.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 957.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 957.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 957.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 957.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 957.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 958.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 958.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 958.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 959.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 962.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 962.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 962.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 962.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 962.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 962.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 962.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 962.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 962.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 962.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 963.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 963.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 963.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 964.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 964.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 965.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 965.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 966.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 966.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 966.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 966.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 966.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 975.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 978.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 988.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 990.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 992.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 992.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 992.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 992.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 992.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 992.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 992.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 992.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 993.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 993.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 994.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 994.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 994.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 994.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 994.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 994.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 994.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 994.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 994.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 994.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 997.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 997.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 997.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 997.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 997.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 997.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 997.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 997.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 999.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 999.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 999.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1000.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1000.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1000.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1000.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1000.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1001.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1001.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1001.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1001.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1001.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1001.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1001.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1001.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1001.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 1002.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1002.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1002.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1003.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1003.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1003.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1003.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1003.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1003.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1003.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1007.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1007.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1009.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1011.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1013.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1014.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1017.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1017.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1028.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1030.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1041.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1043.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1045.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1046.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1046.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1048.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1049.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1052.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1053.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1054.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1054.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1056.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1058.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1060.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1061.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1063.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1066.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1067.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1068.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1070.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1081.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1083.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1107.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1108.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1108.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1109.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1118.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1120.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1129.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1130.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1145.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1147.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1147.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1149.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1155.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1156.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1160.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1160.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1160.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1160.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1160.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1160.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1160.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1160.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1160.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1161.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1161.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1162.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1162.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1163.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1163.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1164.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1164.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1164.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1164.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1164.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1167.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1168.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1172.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1173.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1173.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1174.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1174.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1174.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1174.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1174.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1174.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1175.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1175.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动倒退避让"
+  },
+  {
+    "time": 1175.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1175.2,
+    "type": "state_AVOIDING",
+    "message": "完成反弹转向后继续清扫"
+  },
+  {
+    "time": 1175.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1175.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 1175.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1175.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 1176.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 1176.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 1176.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动转向绕行"
+  },
+  {
+    "time": 1176.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1176.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1176.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1176.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1176.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1176.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1176.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1176.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.1,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1177.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1177.9,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1178.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1178.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1178.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1178.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1178.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1178.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1178.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1178.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1178.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1178.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1178.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.2,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.3,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.4,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.5,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.6,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.7,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1179.8,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1179.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1180.0,
+    "type": "state_AVOIDING",
+    "message": "预测行人运动，主动减速让行"
+  },
+  {
+    "time": 1180.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1189.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1192.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1200.0,
+    "type": "state_FAILED",
+    "message": "清扫时间达到 1200 秒，仍未达到 95%；最终覆盖率 70.33%"
+  }
+]

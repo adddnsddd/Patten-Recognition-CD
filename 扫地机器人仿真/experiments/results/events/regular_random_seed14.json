@@ -1,0 +1,1037 @@
+[
+  {
+    "time": 28.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 29.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 29.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 32.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 33.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 35.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 36.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 39.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 40.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 42.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 43.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 44.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 60.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 62.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 67.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 69.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 74.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 76.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 92.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 93.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 97.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 97.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 101.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 103.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 105.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 106.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 113.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 115.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 115.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 117.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 123.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 125.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 129.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 132.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 135.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 136.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 154.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 155.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 157.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 159.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 159.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 160.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 162.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 163.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 182.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 183.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 190.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 191.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 193.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 195.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 198.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 198.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 224.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 225.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 237.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 239.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 241.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 244.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 246.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 248.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 280.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 281.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 281.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 282.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 297.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 299.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 300.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 301.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 301.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 301.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 322.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 324.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 325.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 326.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 341.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 342.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 364.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 364.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 365.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 366.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 387.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 388.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 397.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 399.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 419.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 420.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 426.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 428.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 448.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 449.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 449.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 451.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 466.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 467.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 467.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 467.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 478.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 480.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 499.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 500.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 515.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 517.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 522.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 524.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 544.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 546.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 546.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 547.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 558.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 558.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 559.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 560.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 583.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 585.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 589.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 591.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 596.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 596.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 597.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 598.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 603.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 605.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 608.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 610.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 616.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 616.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 643.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 644.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 645.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 646.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 654.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 656.0,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 662.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 663.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 679.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 680.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 680.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 681.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 705.6,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 708.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 732.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 732.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 739.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 740.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 761.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 762.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 766.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 766.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 772.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 772.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 777.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 778.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 780.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 783.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 791.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 793.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 797.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 798.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 814.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 816.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 840.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 842.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 843.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 845.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 860.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 861.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 861.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 863.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 892.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 895.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 924.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 926.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 928.0,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 928.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 957.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 959.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 988.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 991.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1020.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1022.6,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1027.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1029.8,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1032.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1034.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1050.9,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1052.3,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1080.8,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1082.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1101.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1103.4,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1105.5,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1108.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1110.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1110.9,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1131.7,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1133.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1134.3,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1135.7,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1142.1,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1143.5,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1164.2,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1165.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1165.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1167.2,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1188.4,
+    "type": "state_AVOIDING",
+    "message": "接近制动距离，随机反弹转向"
+  },
+  {
+    "time": 1191.1,
+    "type": "state_CLEANING",
+    "message": "随机反弹清扫演示"
+  },
+  {
+    "time": 1200.0,
+    "type": "state_FAILED",
+    "message": "清扫时间达到 1200 秒，仍未达到 95%；最终覆盖率 77.13%"
+  }
+]

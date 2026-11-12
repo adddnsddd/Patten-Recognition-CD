@@ -1,0 +1,49 @@
+{
+  "user_id": 2,
+  "requested_method": "ga",
+  "method": "ga",
+  "cold_start": false,
+  "status": "暂无符合条件的物品",
+  "requested_at": "2026-02-20 20:22:28",
+  "returned": 0,
+  "requested_length": 10,
+  "length_note": "可用商品不足，已返回全部可用商品",
+  "candidate_strategy": "hybrid",
+  "candidate_count": 0,
+  "candidate_categories": {},
+  "profile": {
+    "图书": 0.08452381118755929,
+    "家居": 0.0,
+    "数码": 0.014087301864593216,
+    "服饰": 0.5494047727191355,
+    "运动": 0.8311508100109998
+  },
+  "median_price": 244.76,
+  "price_range": [
+    0.0,
+    0.0
+  ],
+  "R": 0.0,
+  "D": 0.0,
+  "V": 0.0,
+  "F": 0.0,
+  "items": [],
+  "optimization_seconds": 0.0,
+  "request_seconds": 0.0005284999999999318,
+  "history": [],
+  "config": {
+    "population": 60,
+    "generations": 100,
+    "crossover": 0.8,
+    "mutation": 0.2,
+    "patience": 15,
+    "tolerance": 0.0001,
+    "weights": [
+      0.7,
+      0.2,
+      0.1
+    ],
+    "seed": 0,
+    "replacement_mutation": true
+  }
+}

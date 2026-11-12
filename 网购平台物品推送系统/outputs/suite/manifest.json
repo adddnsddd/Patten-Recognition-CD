@@ -1,0 +1,293 @@
+{
+  "identity_hash": "cd3138e847e396e86127d04e7addb8aa4a989a70dc0684f846d84be3a7931e1e",
+  "plan": {
+    "protocol_version": 1,
+    "cohort": {
+      "users_before_filter": 200,
+      "eligible_count": 192,
+      "selected_users": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "case_users": [
+        1,
+        2,
+        3
+      ],
+      "selection": "按用户编号升序取前max_users名；案例优先选择画像主类别不同的用户",
+      "eligibility": "训练行为>=10，验证和测试均有完整有效正反馈，两请求候选>=10；测试标签仅用于预先约定的用户资格筛选，不参与验证选参"
+    },
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "data_hash": "5eb407f7ad687ffe770adca136a99a903eb32c9af87471ffb0baa435e87fb8dc",
+    "implementation_hashes": {
+      "core.py": "8bc138f2ea9a909c3f8c1f5dd07447701527a88c005a97d6f18ff0cc3a9aa0f2",
+      "ga.py": "e6ef249537945af36d6e0a47ccc371ca0a06cc22181388a622514675266385a2",
+      "data.py": "2bc99f7d9000866cc4998bce180fab90ab3ef1d327b1dd5a65fc5db4db6067a5",
+      "experiments.py": "2486a38269f649b58a43abafd598018b89bcd49a6247104176bf584162750823"
+    },
+    "default": {
+      "population": 60,
+      "generations": 100,
+      "crossover": 0.8,
+      "mutation": 0.2,
+      "patience": 15,
+      "tolerance": 0.0001,
+      "weights": [
+        0.7,
+        0.2,
+        0.1
+      ],
+      "seed": 0,
+      "replacement_mutation": true
+    },
+    "parameters": [
+      {
+        "name": "default",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "population_30",
+        "config": {
+          "population": 30,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "population_100",
+        "config": {
+          "population": 100,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "crossover_0.6",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.6,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "crossover_0.9",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.9,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "mutation_0.05",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.05,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "mutation_0.4",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.4,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      }
+    ],
+    "weights": [
+      {
+        "name": "weight_1_0_0",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "default",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.7,
+            0.2,
+            0.1
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      },
+      {
+        "name": "weight_05_03_02",
+        "config": {
+          "population": 60,
+          "generations": 100,
+          "crossover": 0.8,
+          "mutation": 0.2,
+          "patience": 15,
+          "tolerance": 0.0001,
+          "weights": [
+            0.5,
+            0.3,
+            0.2
+          ],
+          "seed": 0,
+          "replacement_mutation": true
+        }
+      }
+    ],
+    "ablation": [
+      "swap_only",
+      "score_candidates"
+    ],
+    "scales": [
+      50,
+      100,
+      200
+    ],
+    "selection_rule": "验证NDCG降序，F降序，variant名称升序；不使用计时打破同分",
+    "test_policy": "原默认参数测试结果已在前一轮查看；本轮只依据验证实验选择配置，锁定后执行预定测试比较，不宣称本测试集从未被查看"
+  },
+  "frozen_at": "2026-11-04T16:16:59.675193+08:00",
+  "environment": {
+    "python": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+    "numpy": "2.0.2",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+    "logical_cpu_count": 16,
+    "physical_memory_bytes": 16312553472
+  },
+  "data_split": {
+    "raw_records": 16000,
+    "clean_records": 16000,
+    "dropped": {},
+    "train_records": 11200,
+    "validation_records": 2400,
+    "test_records": 2400,
+    "validation_start": "2026-02-12 00:51:50",
+    "test_start": "2026-02-20 20:22:28",
+    "timezone": "Asia/Shanghai",
+    "users": 200,
+    "items": 500,
+    "known_categories": 5
+  },
+  "static_metadata": "所有商品属性在模拟开始即已知，主实验中保持静态",
+  "metric_policy": "Precision固定分母10；Recall和IDCG使用完整有效正反馈集合，不按候选池截断；先用户宏平均再种子均值/样本标准差"
+}

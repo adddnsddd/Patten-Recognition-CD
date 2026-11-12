@@ -1,0 +1,76 @@
+{
+  "source_split": "validation",
+  "variant_name": "weight_1_0_0",
+  "rule": "验证NDCG降序，F降序，variant名称升序；不使用计时打破同分",
+  "config": {
+    "population": 60,
+    "generations": 100,
+    "crossover": 0.8,
+    "mutation": 0.2,
+    "patience": 15,
+    "tolerance": 0.0001,
+    "weights": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "seed": 0,
+    "replacement_mutation": true
+  },
+  "validation_summary": {
+    "precision": {
+      "mean": 0.06000000000000002,
+      "std": 7.314236392868128e-18
+    },
+    "recall": {
+      "mean": 0.12011904761904761,
+      "std": 0.0
+    },
+    "ndcg": {
+      "mean": 0.09083400122681909,
+      "std": 0.0
+    },
+    "R": {
+      "mean": 0.8857375954595634,
+      "std": 0.0
+    },
+    "D": {
+      "mean": 0.017777777777777778,
+      "std": 0.0
+    },
+    "V": {
+      "mean": 0.38370804206178877,
+      "std": 0.0
+    },
+    "F": {
+      "mean": 0.8857375954595634,
+      "std": 0.0
+    },
+    "coverage": {
+      "mean": 0.2746331236897275,
+      "std": 0.0
+    },
+    "candidate_recall": {
+      "mean": 0.5297023809523809,
+      "std": 0.0
+    },
+    "optimization_seconds": {
+      "mean": 0.029000057999999457,
+      "std": 0.0012295952778463616
+    },
+    "request_seconds": {
+      "mean": 0.03127867450000053,
+      "std": 0.0013293650202316975
+    },
+    "generations": {
+      "mean": 15.0,
+      "std": 0.0
+    },
+    "returned": {
+      "mean": 10.0,
+      "std": 0.0
+    }
+  },
+  "identity_hash": "cd3138e847e396e86127d04e7addb8aa4a989a70dc0684f846d84be3a7931e1e",
+  "locked_before_final_test": true
+}

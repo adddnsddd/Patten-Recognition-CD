@@ -1,0 +1,14 @@
+{
+  "raw_records": 16000,
+  "clean_records": 16000,
+  "dropped": {},
+  "train_records": 11200,
+  "validation_records": 2400,
+  "test_records": 2400,
+  "validation_start": "2026-02-12 00:51:50",
+  "test_start": "2026-02-20 20:22:28",
+  "timezone": "Asia/Shanghai",
+  "users": 200,
+  "items": 500,
+  "known_categories": 5
+}

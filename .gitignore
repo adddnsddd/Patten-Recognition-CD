@@ -1,0 +1,36 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Temporary build output
+dist/
+*.egg-info/
+build-portable.log
+
+# Local editor settings and credentials
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+
+# Operating system and Office temporary files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Large local archive; keep on disk and distribute separately
+/扫地机器人仿真/扫地机器人仿真_实验原始数据.zip
+
+# Third-party face images remain local pending redistribution review
+/人脸识别系统/datasets/extended_yale_b/download_parts/
+/人脸识别系统/datasets/extended_yale_b/selected_cropped.zip
+
+# Keep the three root EXE programs eligible for upload.

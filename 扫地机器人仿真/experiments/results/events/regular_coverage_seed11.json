@@ -1,0 +1,9922 @@
+[
+  {
+    "time": 1.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 2.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 1 / 70"
+  },
+  {
+    "time": 2.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 2.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 1 / 70"
+  },
+  {
+    "time": 39.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 39.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 4 / 70"
+  },
+  {
+    "time": 80.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 80.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 80.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 80.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 80.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 80.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 80.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 80.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 80.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 81.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 81.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 82.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 82.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 83.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 83.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 84.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 84.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 85.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 85.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 85.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 85.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 85.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 85.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 85.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 85.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 85.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 85.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 85.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 85.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 86.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 86.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 86.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 86.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 86.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 86.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 86.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 86.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 86.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 86.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 87.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 87.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 87.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 87.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 87.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 87.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 87.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 87.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 87.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 87.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 87.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 87.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 88.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 88.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 88.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 89.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 89.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 89.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 89.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 89.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 89.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 89.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 89.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 89.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 89.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 89.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 90.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 90.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 90.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 90.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 90.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 90.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 90.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 91.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 91.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 91.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 91.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 7 / 70"
+  },
+  {
+    "time": 101.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 101.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 101.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 101.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 101.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 101.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 101.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 102.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 102.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 103.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 103.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 104.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 104.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 105.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 105.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 106.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 106.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 106.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 106.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 106.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 106.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 106.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 106.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 106.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 106.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 107.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 107.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 107.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 107.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 107.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 107.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 107.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 108.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 108.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 108.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 108.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 108.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 108.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 108.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 109.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 109.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 109.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 109.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 109.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 109.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 109.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 109.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 109.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 109.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 109.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 110.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 110.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 110.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 110.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 110.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 110.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 110.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 110.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 110.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 110.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 110.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 110.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 111.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 111.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 111.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 112.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 112.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 112.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 112.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 112.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 112.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 9 / 70"
+  },
+  {
+    "time": 137.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 137.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 137.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 138.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 138.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 139.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 139.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 140.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 140.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 141.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 141.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 142.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 142.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 142.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 142.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 142.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 142.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 142.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 142.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 142.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 142.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 142.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 142.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 143.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 143.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 143.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 143.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 143.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 143.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 143.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 143.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 143.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 143.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 143.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 143.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 144.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 144.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 144.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 144.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 144.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 144.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 144.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 145.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 145.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 145.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 145.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 145.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 145.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 145.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 145.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 145.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 145.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 145.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 146.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 146.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 146.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 146.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 146.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 146.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 146.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 146.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 146.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 146.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 147.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 147.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 147.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 147.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 147.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 147.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 147.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 147.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 147.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 147.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 147.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 147.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 147.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 149.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 149.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 149.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 149.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 149.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 149.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 149.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 149.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 149.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 149.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 149.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 150.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 150.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 13 / 70"
+  },
+  {
+    "time": 163.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 163.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 163.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 163.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 163.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 163.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 163.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 163.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 163.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 163.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 163.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 164.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 164.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 165.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 165.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 166.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 166.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 167.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 167.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 168.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 168.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 169.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 169.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 170.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 170.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 170.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 170.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 170.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 170.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 170.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 170.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 170.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 170.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 170.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 171.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 171.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 171.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 171.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 171.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 171.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 171.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 172.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 173.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 173.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 173.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 173.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 173.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 174.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 174.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 175.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 175.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 175.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 175.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 175.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 15 / 70"
+  },
+  {
+    "time": 178.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 178.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 16 / 70"
+  },
+  {
+    "time": 178.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 179.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 16 / 70"
+  },
+  {
+    "time": 194.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 194.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 194.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 195.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 195.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 195.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 195.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 195.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 195.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 195.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 196.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 197.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 197.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 198.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 198.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 198.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 198.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 198.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 198.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 198.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 199.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 199.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 199.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 199.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 199.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 199.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 199.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 199.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 199.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 199.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 199.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 200.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 200.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 200.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 200.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 200.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 200.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 200.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 200.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 200.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 200.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 200.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 200.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 201.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 201.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 201.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 201.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 201.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 201.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 201.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 202.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 202.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 202.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 202.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 202.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 202.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 202.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 202.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 202.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 202.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 202.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 202.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 203.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 203.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 203.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 203.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 203.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 203.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 203.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 203.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 203.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 203.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 204.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 204.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 204.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 204.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 204.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 204.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 204.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 204.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 205.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 206.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 206.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 206.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 206.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 206.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 206.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 206.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 206.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 206.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 206.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 206.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 207.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 207.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 207.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 207.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 207.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 207.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 207.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 207.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 207.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 207.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 208.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 208.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 208.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 208.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 208.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 208.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 208.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 208.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 208.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 19 / 70"
+  },
+  {
+    "time": 222.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 222.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 222.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 222.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 222.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 223.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 223.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 223.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 223.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 223.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 224.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 224.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 224.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 225.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 225.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 226.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 226.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 226.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 226.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 226.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 226.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 226.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 226.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 226.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 226.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 226.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 227.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 227.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 227.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 227.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 227.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 227.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 227.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 227.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 227.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 227.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 228.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 228.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 229.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 229.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 230.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 230.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 231.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 231.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 231.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 231.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 231.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 231.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 231.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 231.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 231.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 231.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 231.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 231.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 232.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 232.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 232.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 232.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 232.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 232.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 232.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 232.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 232.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 233.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 233.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 233.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 233.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 233.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 233.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 233.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 233.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 233.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 233.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 233.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 233.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 233.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 235.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 235.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 236.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 236.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 236.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 236.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 236.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 236.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 236.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 236.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 236.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 236.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 236.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 236.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 237.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 237.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 237.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 21 / 70"
+  },
+  {
+    "time": 263.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 263.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 263.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 263.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 263.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 263.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 263.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 263.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 263.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 264.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 264.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 265.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 265.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 266.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 266.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 267.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 267.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 268.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 268.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 269.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 269.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 270.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 270.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 270.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 270.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 270.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 270.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 270.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 270.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 270.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 270.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 270.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 270.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 271.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 271.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 271.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 271.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 271.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 271.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 271.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 271.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 271.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 271.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 271.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 271.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 272.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 272.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 272.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 272.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 272.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 272.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 272.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 274.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 274.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 275.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 275.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 275.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 275.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 25 / 70"
+  },
+  {
+    "time": 288.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 288.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 288.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 288.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 288.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 288.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 288.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 288.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 288.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 288.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 288.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 288.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 288.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 289.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 289.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 290.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 290.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 291.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 291.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 292.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 292.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 293.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 293.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 294.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 294.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 294.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 294.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 294.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 294.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 294.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 294.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 294.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 294.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 294.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 294.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 295.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 295.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 295.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 295.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 295.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 295.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 295.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 295.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 295.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 295.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 296.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 296.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 296.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 296.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 296.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 296.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 296.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 297.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 298.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 298.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 298.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 298.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 298.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 298.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 298.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 299.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 299.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 300.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 300.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 300.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 27 / 70"
+  },
+  {
+    "time": 311.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 311.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 311.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 311.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 311.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 311.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 311.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 312.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 312.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 30 / 70"
+  },
+  {
+    "time": 317.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 318.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 318.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 319.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 319.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 320.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 320.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 321.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 321.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 321.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 321.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 321.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 321.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 321.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 322.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 322.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 322.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 322.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 322.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 322.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 322.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 323.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 323.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 323.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 323.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 323.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 323.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 323.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 323.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 323.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 323.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 323.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 324.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 324.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 324.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 324.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 324.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 324.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 324.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 325.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 325.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 325.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 325.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 326.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 327.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 31 / 70"
+  },
+  {
+    "time": 337.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 337.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 337.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 338.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 338.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 339.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 339.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 339.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 339.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 339.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 339.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 339.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 339.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 339.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 339.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 340.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 340.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 341.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 341.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 342.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 342.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 343.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 343.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 343.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 343.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 343.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 343.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 343.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 344.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 344.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 344.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 344.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 344.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 344.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 344.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 344.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 344.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 344.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 345.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 345.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 345.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 345.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 345.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 345.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 345.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 345.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 345.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 345.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 346.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 346.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 346.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 347.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 347.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 33 / 70"
+  },
+  {
+    "time": 552.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 553.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 553.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 553.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 553.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 553.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 553.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 553.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 553.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 553.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 553.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 553.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 556.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 556.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 556.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 556.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 556.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 556.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 556.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 556.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 47 / 70"
+  },
+  {
+    "time": 576.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 576.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 576.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 576.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 576.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 576.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 576.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 576.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 576.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 576.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 576.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 577.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 577.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 577.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 577.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 577.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 577.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 577.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 580.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 580.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 580.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 580.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 580.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 580.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 580.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 581.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 581.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 581.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 581.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 581.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 581.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 581.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 581.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 581.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 581.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 581.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 584.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 584.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 584.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 584.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 51 / 70"
+  },
+  {
+    "time": 635.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 635.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 635.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 635.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 635.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 635.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 635.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 636.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 636.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 639.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 639.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 639.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 639.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 639.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 640.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 640.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 641.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 641.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 642.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 642.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 643.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 643.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 644.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 644.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 644.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 644.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 644.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 644.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 644.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 644.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 644.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 644.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 645.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 645.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 645.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 645.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 645.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 645.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 645.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 645.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 645.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 645.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 646.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 646.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 646.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 646.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 646.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 55 / 70"
+  },
+  {
+    "time": 668.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 668.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 668.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 668.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 668.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 668.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 668.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 668.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 668.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 668.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 668.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 669.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 669.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 670.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 670.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 671.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 671.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 672.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 672.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 673.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 673.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 673.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 673.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 673.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 673.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 673.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 673.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 673.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 673.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 673.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 673.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 674.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 674.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 674.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 674.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 674.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 674.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 674.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 674.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 674.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 674.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 674.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 674.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 675.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 675.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 675.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 675.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 675.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 675.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 675.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 677.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 677.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 677.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 677.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 677.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 677.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 677.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 677.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 59 / 70"
+  },
+  {
+    "time": 725.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 725.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 725.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 725.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 725.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 725.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 725.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 725.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 726.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 726.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 726.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 726.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 726.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 726.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 726.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 726.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 726.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 726.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 726.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 726.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 729.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 729.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.1,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.2,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.2,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.3,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.3,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.4,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.4,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.5,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.5,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.6,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.6,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.7,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 730.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 730.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 731.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 731.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 731.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 63 / 70"
+  },
+  {
+    "time": 808.8,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 808.9,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 69 / 70"
+  },
+  {
+    "time": 831.8,
+    "type": "state_RETURNING",
+    "message": "覆盖率已达到 95%，返回充电站"
+  },
+  {
+    "time": 856.1,
+    "type": "state_FINISHED",
+    "message": "覆盖率达到 95%，已返回充电站"
+  }
+]

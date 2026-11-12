@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "frozen": true,
+  "executable": "C:\\Users\\南京林俊杰\\Desktop\\模式识别\\网购平台物品推送系统\\build\\portable-check\\独立程序 with spaces\\网购推荐.exe",
+  "bundled_data": "F:\\WpSystem\\S-1-5-21-2474306655-4239217040-1717876001-1001\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\AC\\#!sandbox.{336897db-1979-45f7-85f4-0ef5652d9415}\\Temp\\_MEI00005e782\\data",
+  "checks": [
+    "内置数据读取与Tk窗口创建",
+    "遗传推荐、精英保持与原生收敛曲线",
+    "同种子结果与曲线可复现",
+    "原生用户画像及候选分布图",
+    "三种算法切换及单件价格约束",
+    "新用户热门回退",
+    "空候选提示",
+    "中文路径JSON导出",
+    "轻量图表运行不依赖Matplotlib或Pillow"
+  ]
+}

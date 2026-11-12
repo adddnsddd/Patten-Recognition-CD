@@ -1,0 +1,23 @@
+{
+  "scene": "regular",
+  "mode": "random",
+  "seed": 15,
+  "initial_soc": 100.0,
+  "initial_heading_deg": 0.0,
+  "terminal": "FAILED",
+  "reason": "清扫时间达到 1200 秒，仍未达到 95%；最终覆盖率 79.71%",
+  "coverage_percent": 79.70744680851064,
+  "cleaning_time_s": 1200.000000000004,
+  "total_time_s": 1200.100000000004,
+  "cleaning_path_m": 249.35494594283364,
+  "total_path_m": 249.37494594283365,
+  "repeat_path_m": 105.35123670706517,
+  "repeat_rate_percent": 42.249507547854165,
+  "minimum_gap_m": 0.15026120063927345,
+  "collisions": 0,
+  "safety_stops": 0,
+  "plans": 0,
+  "energy_used_j": 36000.0,
+  "final_soc": 74.01247401247133,
+  "success": false
+}

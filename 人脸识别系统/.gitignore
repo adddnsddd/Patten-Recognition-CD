@@ -1,0 +1,11 @@
+.venv/
+.venv-build/
+build/
+dist/
+人脸识别数据/
+__pycache__/
+*.pyc
+data/raw/
+data/manifest.csv
+models/
+outputs/

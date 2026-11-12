@@ -1,0 +1,57 @@
+[
+  {
+    "time": 1.9,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 2.0,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 1 / 92"
+  },
+  {
+    "time": 2.0,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动转向绕行"
+  },
+  {
+    "time": 2.1,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 1 / 92"
+  },
+  {
+    "time": 39.7,
+    "type": "state_AVOIDING",
+    "message": "预测前方风险，主动减速让行"
+  },
+  {
+    "time": 39.8,
+    "type": "state_CLEANING",
+    "message": "清扫目标点 4 / 92"
+  },
+  {
+    "time": 46.3,
+    "type": "state_RETURNING",
+    "message": "电量达到 20%，保存进度并返航"
+  },
+  {
+    "time": 69.1,
+    "type": "state_CHARGING",
+    "message": "已停靠，充电至 90% 后续扫（可提高仿真倍速）"
+  },
+  {
+    "time": 69.1,
+    "type": "charging_started",
+    "message": "Robot stopped at charging station"
+  },
+  {
+    "time": 5481.6,
+    "type": "state_CLEANING",
+    "message": "电量达到 90%，恢复未完成的清扫任务"
+  },
+  {
+    "time": 5481.6,
+    "type": "charging_stopped",
+    "message": "Charging stopped"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "scene": "complex",
+  "mode": "coverage",
+  "seed": 7,
+  "initial_soc": 100.0,
+  "initial_heading_deg": 0.0,
+  "terminal": "FINISHED",
+  "reason": "覆盖率达到 95%，已返回充电站",
+  "coverage_percent": 95.02587694077056,
+  "cleaning_time_s": 1181.7000000000207,
+  "total_time_s": 1200.7000000000035,
+  "cleaning_path_m": 189.16502489526226,
+  "total_path_m": 192.71933578365235,
+  "repeat_path_m": 45.868672643495145,
+  "repeat_rate_percent": 24.24796691084513,
+  "minimum_gap_m": 0.15011825663699258,
+  "collisions": 0,
+  "safety_stops": 0,
+  "plans": 177,
+  "energy_used_j": 33277.0,
+  "final_soc": 75.97814160313915,
+  "success": true
+}

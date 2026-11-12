@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "users": 200,
+  "items": 500,
+  "behaviors": 16000,
+  "categories": 5
+}

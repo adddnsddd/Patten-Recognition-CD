@@ -1,0 +1,17 @@
+[
+  {
+    "time": 0.0,
+    "type": "state_RETURNING",
+    "message": "电量达到 20%，保存进度并返航"
+  },
+  {
+    "time": 0.0,
+    "type": "state_CHARGING",
+    "message": "已停靠，充电至 90% 后续扫（可提高仿真倍速）"
+  },
+  {
+    "time": 0.0,
+    "type": "charging_started",
+    "message": "Robot stopped at charging station"
+  }
+]
